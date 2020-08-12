@@ -8,7 +8,7 @@ RUN
 
 OR 
 
-Use Without Downloading (run in broswer) https://Text-To-Binarypy.bobthethe.repl.run
+Use Without Downloading (run in broswer) https://Text-To-Binary.bobthethe.repl.run
 
 
 Binary-To-Text.py
