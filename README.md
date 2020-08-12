@@ -8,7 +8,7 @@ RUN
 
 OR 
 
-Use Without Downloading (run in broswer) https://String-To-Binary.nikolagjorgjijo.repl.run
+Use Without Downloading (run in broswer) https://Text-To-Binary.nikolagjorgjijo.repl.run
 
 
 Binary-To-Text.py
@@ -17,4 +17,4 @@ Run
 
 OR 
 
-Use Without Downloading (run in broswer) https://Binary-To-String.nikolagjorgjijo.repl.run
+Use Without Downloading (run in broswer) https://Binary-To-Text.nikolagjorgjijo.repl.run
